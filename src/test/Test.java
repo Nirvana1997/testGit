@@ -7,5 +7,7 @@ public class Test {
 
     public void testGit(){
         String test = "测试冲突";
+        String test2 = "测试冲突";
+        String test3 = "测试冲突";
     }
 }
